@@ -1,5 +1,8 @@
 _repo: Katornas-folk_62806
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 62806-h/images/cover.jpg
 creator:
   author:
     agent_name: Nordström, Ester Blenda
@@ -12,6 +15,8 @@ creator:
     - https://sv.wikipedia.org/wiki/Ester_Blenda_Nordstr%C3%B6m
     - https://en.wikipedia.org/wiki/Ester_Blenda_Nordstr%C3%B6m
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62806#Katornas-folk
 gutenberg_issued: '2020-08-01'
 gutenberg_type: Text
 identifiers:
