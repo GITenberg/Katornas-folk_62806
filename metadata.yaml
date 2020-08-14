@@ -1,0 +1,29 @@
+_repo: Katornas-folk_62806
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nordström, Ester Blenda
+    alias: Nordstrom, Ester Blenda
+    birthdate: 1891
+    deathdate: 1948
+    gutenberg_agent_id: '45061'
+    url: http://www.gutenberg.org/2009/agents/45061
+    wikipedia:
+    - https://sv.wikipedia.org/wiki/Ester_Blenda_Nordstr%C3%B6m
+    - https://en.wikipedia.org/wiki/Ester_Blenda_Nordstr%C3%B6m
+description: ''
+gutenberg_issued: '2020-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62806'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lapland -- Description and travel'
+- !lcc 'DL'
+- !lcsh 'Sami (European people)'
+- GITenberg
+title: Kåtornas folk
+url: http://www.gutenberg.org/ebooks/62806
